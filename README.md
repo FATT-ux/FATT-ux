@@ -1,16 +1,30 @@
-## Hi there 👋
+# Всем привет! 👋
 
-<!--
-**FATT-ux/FATT-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Кто я
+Меня зовут **Никита**. Я — начинающий веб-разработчик  / студент IT-специальности из России. Стремлюсь создавать качественные и полезные проекты, постоянно изучаю новые технологии.
 
-Here are some ideas to get you started:
+##  Чем занимаюсь
+  Разрабатываю веб-приложения.  
+  Сейчас активно изучаю  React / Docker.  
+  Работаю над разными проектами и развиваю свои пет-проекты.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Инструменты и технологии
+### Языки программирования
+  JavaScript 
+
+### Фреймворки и библиотеки
+  React   
+  node.js
+
+### Инструменты и базы данных
+  SQLite / PostgreSQL   
+  Docker  
+  Git / GitHub  
+  VS Code   
+
+##  Как связаться
+Я всегда открыт для общения!
+
+ **Telegram:** [@FATT337](https://t.me)
+ **Email:** [nik.abaskalov@mail.ru](mailto:nik.abaskalov@mail.ru)
+
